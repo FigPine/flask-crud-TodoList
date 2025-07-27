@@ -28,13 +28,13 @@ Built while following [Learn Flask for Python - Full Tutorial](https://youtu.be/
 
 ### 1. Clone the repository
 
-```bash git clone https://github.com/figpine/flask-crud-TodoList.git ```
-```bash cd flask-crud-TodoList ```
+- ```bash git clone https://github.com/figpine/flask-crud-TodoList.git ```
+- ```bash cd flask-crud-TodoList ```
 
 ### 2. Set up a virtual environment (optional but recommended)
 
-python -m venv env
-source env/bin/activate  (on Windows use: env\Scripts\activate)
+- python -m venv env
+- source env/bin/activate  (on Windows use: env\Scripts\activate)
 
 ### 3. Install dependencies
 
@@ -44,9 +44,13 @@ pip install flask
 
 python app.py
 
+---
+
 ## Acknowledgements
 This project was built by following 
 [Learn Flask for Python - Full Tutorial](https://youtu.be/Z1RJmh_OqeA?si=vYAGyypwzHgjzNPO) by Jake Rieger
+
+---
 
 ## License
 This project is for educational purposes only. Feel free to fork or build upon it.
